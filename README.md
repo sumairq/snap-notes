@@ -1,24 +1,43 @@
-# README
+# Snap Notes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple Notes application built using Ruby on Rails. The app allows users to create, edit, and delete personal notes.
 
-Things you may want to cover:
+## Features
 
-* Ruby version
+- Create new notes
+- Edit existing notes
+- Delete notes
+- List all notes
 
-* System dependencies
+## Technologies Used
 
-* Configuration
+- **Ruby on Rails**: Backend framework for building the application.
+- **SQLite3**: Default Rails database for development.
+- **HTML/CSS**: For the frontend structure and styling.
 
-* Database creation
+## Getting Started
 
-* Database initialization
+### Prerequisites
 
-* How to run the test suite
+Ensure you have the following installed:
 
-* Services (job queues, cache servers, search engines, etc.)
+- Ruby (version 3.0.0 or above)
+- Rails (version 7.0.0 or above)
+- SQLite3 (for local development)
 
-* Deployment instructions
+### Setup
 
-* ...
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sumairq/snap-notes.git
+   cd snap-notes
+
+   ```
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sumairq/snapnotes.git
+   cd snap-notes
+   ```
