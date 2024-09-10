@@ -20,8 +20,8 @@
   </head>
 
   <body>
-    <p class="notice"><%= notice %></p>
-       <p class="alert"><%= alert %></p>  
+    <p class="flex place-content-center font-regular leading-8 bg-green-400"><%= notice %></p>
+    <p class="flex place-content-center font-regular leading-8 bg-red-400"><%= alert %></p>  
   <% unless controller_name == 'registrations' || controller_name == 'sessions' || controller_name == 'passwords' %>
   <%= render 'layouts/header' %>
   <% end %>
