@@ -35,9 +35,4 @@ Ensure you have the following installed:
 
    ```
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/sumairq/snapnotes.git
-   cd snap-notes
-   ```
+1. Install Dependencies
