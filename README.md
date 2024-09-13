@@ -2,6 +2,9 @@
 
 This is a simple Notes application built using Ruby on Rails. The app allows users to create, edit, and delete personal notes.
 
+![image](https://github.com/user-attachments/assets/b1dca452-2ea9-4d22-a704-be5e90cda60b)
+
+
 ## Features
 
 - Create new notes
