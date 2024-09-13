@@ -26,5 +26,9 @@
   <%= render 'layouts/header' %>
   <% end %>
       <%= yield %>
+      <% unless controller_name == 'registrations' || controller_name == 'sessions' || controller_name == 'passwords' %>
+  <%= render 'layouts/footer'%>  
+  <% end %>
+    
   </body>
 </html>
